@@ -1,5 +1,5 @@
 <# =====================================================================
-    MANAGE FOLDER PERMISSIONS TOOL (PS5 COMPATIBLE, MERGED & CORRECTED)
+    MANAGE FOLDER PERMISSIONS TOOL
 
 ===================================================================== #>
 
